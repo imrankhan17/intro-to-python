@@ -1,8 +1,9 @@
 # Introduction to Python
 
-A basic interactive introduction to Python covering:  
+A basic interactive introduction to Python including:  
 * Data types  
-* ...
+* Control flow
+* Several challenges
 * Create your own simple chatbot to practice what you've learnt
 
 
